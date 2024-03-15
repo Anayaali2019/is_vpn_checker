@@ -1,8 +1,4 @@
 
-Sure, here's a basic README.md file for your GitHub repository:
-
----
-
 # VPN and Proxy Connection Checker API
 
 This API allows you to check if a visitor's connection is coming from a VPN or proxy server. By simply sending a GET request to the provided endpoint with the visitor's IP address, you can quickly determine if they are using such services.
