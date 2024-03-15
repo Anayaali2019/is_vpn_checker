@@ -16,7 +16,7 @@ Replace `{VISITOR_IP_HERE}` with the IP address of the visitor whose connection 
 ### Example
 
 ```
-https://vpnjobdastak.kozow.com:3000/?ip=123.456.789.012
+https://vpnjobdastak.kozow.com:3000/?ip=8.8.8.8
 ```
 
 This will return a response indicating whether the IP address belongs to a VPN or proxy connection.
